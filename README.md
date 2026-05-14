@@ -20,6 +20,12 @@ Currently building a stealth AI product involving LLM workflows, structured memo
 
 Founder/CTO. Building a multi-repo AI product with backend services, async workers, Supabase/Postgres, LLM workflows, structured memory, and stateful user intelligence.
 
+### AI Production Readiness Checklist
+
+A practical checklist for evaluating production readiness of AI systems, covering LLM workflows, architecture, observability, evals, RAG/context design, cost control, security, and deployment.
+
+Repository: https://github.com/manuelblinkert/ai-production-readiness-checklist
+
 ### Signal Over Noise
 
 A personal tech intelligence system for turning fragmented AI and developer content into structured, high-signal knowledge.
@@ -28,10 +34,11 @@ A personal tech intelligence system for turning fragmented AI and developer cont
 
 Ongoing work around production-grade LLM systems, orchestration, retrieval, observability, backend architecture, and system design.
 
-## Public Repositories
+## Public Work
 
 Selected public work includes:
 
+- [AI Production Readiness Checklist](https://github.com/manuelblinkert/ai-production-readiness-checklist)
 - AI/backend architecture resources
 - LLM/data extraction workflows
 - PySpark/Databricks data pipelines
@@ -46,4 +53,3 @@ Python · FastAPI · TypeScript · React · Supabase · Postgres · LangGraph ·
 ## Contact
 
 - LinkedIn: https://www.linkedin.com/in/manuel-blinkert-a06207195/
-- Website: coming soon
