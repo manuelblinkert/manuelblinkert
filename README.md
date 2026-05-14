@@ -52,4 +52,4 @@ Python · FastAPI · TypeScript · React · Supabase · Postgres · LangGraph ·
 
 ## Contact
 
-- LinkedIn: https://www.linkedin.com/in/manuel-blinkert-a06207195/
+- [LinkedIn](https://www.linkedin.com/in/manuel-blinkert/)
