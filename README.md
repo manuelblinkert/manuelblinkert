@@ -2,9 +2,11 @@
 
 **AI Systems Architect · Founder/CTO · Backend & LLM Infrastructure**
 
-I design and build AI/backend systems with a focus on LLM orchestration, production architecture, observability, reliability, and knowledge infrastructure.
+I turn AI prototypes into production-grade backend systems.
 
-Currently building a stealth AI product involving LLM workflows, structured memory, async backend services, and personalized user intelligence.
+My work focuses on LLM orchestration, backend architecture, observability, reliability, cost control, and knowledge infrastructure.
+
+Currently building an AI product involving structured memory, async backend services, LLM workflows, and personalized user intelligence.
 
 ## Focus Areas
 
@@ -12,8 +14,8 @@ Currently building a stealth AI product involving LLM workflows, structured memo
 - LLM orchestration and agent workflows
 - FastAPI and Python backend systems
 - AI observability, reliability, and cost control
-- Knowledge infrastructure and signal extraction
 - Evaluation, deployment, and production-readiness for AI systems
+- Knowledge infrastructure, memory, state, and signal extraction
 
 ## Selected Public Work
 
@@ -21,13 +23,13 @@ Currently building a stealth AI product involving LLM workflows, structured memo
 
 A production-minded FastAPI starter for AI/LLM backend services.
 
-Includes route/service/schema separation, provider abstraction, structured JSON logging, request IDs, tests, Docker, and clean documentation.
+Includes route/service/schema separation, provider abstraction, structured JSON logging, request IDs, tests, Docker, and documentation.
 
 ### [AI Production Readiness Checklist](https://github.com/manuelblinkert/ai-production-readiness-checklist)
 
 A practical checklist for evaluating whether AI systems are ready for production.
 
-Covers LLM workflows, architecture, observability, evals, RAG/context design, cost control, security, deployment, and reliability.
+Covers architecture, LLM workflows, observability, evals, RAG/context design, cost control, security, deployment, and reliability.
 
 ### [AI-GPT Mapping NACE Codes](https://github.com/manuelblinkert/AI-GPT-mapping-nace-codes)
 
@@ -35,13 +37,9 @@ A small OpenAI-based extraction workflow for mapping official NACE code informat
 
 Originally created as a practical helper script during consulting work.
 
-### Additional Technical Work
-
-I also keep selected older repositories public as supporting evidence of technical breadth, including data processing and time-series modeling experiments. These are secondary to my current focus on AI backend systems and production LLM architecture.
-
 ## Current Private Work
 
-### Stealth AI Product
+### AI Product
 
 Founder/CTO. Building a multi-repo AI product with backend services, async workers, Supabase/Postgres, LLM workflows, structured memory, and stateful user intelligence.
 
@@ -51,15 +49,15 @@ A personal tech intelligence system for turning fragmented AI and developer cont
 
 Currently private and under active development.
 
-## Technical Positioning
+## Technical Philosophy
 
 I am especially interested in the gap between AI prototypes and production systems:
 
-- How LLM workflows should be structured
-- How AI systems should be observed and evaluated
-- How backend services should separate routes, services, providers, and schemas
-- How memory, state, and context should be modeled
-- How AI products can avoid becoming fragile prompt-wrapper demos
+- Structuring LLM workflows beyond prompt-wrapper demos
+- Designing observable and evaluable AI systems
+- Separating routes, services, providers, schemas, and infrastructure
+- Modeling memory, state, context, and user-specific intelligence
+- Building AI products that are reliable enough to survive real usage
 
 ## Tech Stack
 
