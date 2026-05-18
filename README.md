@@ -2,7 +2,7 @@
 
 **AI Systems Architect · Founder/CTO · Backend & LLM Infrastructure**
 
-I turn AI prototypes into production-grade backend systems.
+I design and build AI/backend systems that move beyond prototypes toward production-grade reliability.
 
 My work focuses on LLM orchestration, backend architecture, observability, reliability, cost control, and knowledge infrastructure.
 
@@ -10,10 +10,10 @@ Currently building an AI product involving structured memory, async backend serv
 
 ## Focus Areas
 
-- Production-grade AI/backend architecture
+- AI/backend architecture for production systems
 - LLM orchestration and agent workflows
 - FastAPI and Python backend systems
-- AI observability, reliability, and cost control
+- Observability, reliability, and cost control
 - Evaluation, deployment, and production-readiness for AI systems
 - Knowledge infrastructure, memory, state, and signal extraction
 
