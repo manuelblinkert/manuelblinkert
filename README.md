@@ -19,7 +19,7 @@ Currently building an AI product involving structured memory, async backend serv
 
 ## Selected Public Work
 
-### [ai-backend-production-starter](https://github.com/manuelblinkert/ai-backend-production-starter)
+### [AI Backend Production Starter](https://github.com/manuelblinkert/ai-backend-production-starter)
 
 A production-minded FastAPI starter for AI/LLM backend services.
 
@@ -27,9 +27,15 @@ Includes route/service/schema separation, provider abstraction, structured JSON 
 
 ### [AI Production Readiness Checklist](https://github.com/manuelblinkert/ai-production-readiness-checklist)
 
-A practical checklist for evaluating whether AI systems are ready for production.
+A practical checklist framework for evaluating whether AI systems are ready for production.
 
 Covers architecture, LLM workflows, observability, evals, RAG/context design, cost control, security, deployment, and reliability.
+
+### [AI Systems Architecture Notes](https://github.com/manuelblinkert/ai-systems-architecture-notes)
+
+Practical architecture notes on production-grade AI systems, LLM orchestration, observability, backend architecture, and reliability.
+
+Explores the gap between AI prototypes and production systems, including workflow orchestration, semantic observability, system boundaries, and architecture review patterns.
 
 ### [AI-GPT Mapping NACE Codes](https://github.com/manuelblinkert/AI-GPT-mapping-nace-codes)
 
