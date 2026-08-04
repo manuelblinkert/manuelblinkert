@@ -31,17 +31,17 @@ A practical checklist framework for evaluating whether AI systems are ready for 
 
 Covers architecture, LLM workflows, observability, evals, RAG/context design, cost control, security, deployment, and reliability.
 
+### [Second Brain GitHub MCP](https://github.com/manuelblinkert/second-brain-github-mcp)
+
+An authenticated remote MCP server that lets Claude, ChatGPT, and other AI apps safely read and write a single GitHub-backed knowledge vault.
+
+Scoped tool registry, token-based auth, per-member commit attribution, and a hard single-repository boundary. Design and reasoning written up here: [Beyond Chat History: Building an AI-Native Second Brain with Obsidian, GitHub, and MCP](https://manuelblinkert.com/blog/beyond-chat-history-ai-native-second-brain).
+
 ### [AI Systems Architecture Notes](https://github.com/manuelblinkert/ai-systems-architecture-notes)
 
 Practical architecture notes on production-grade AI systems, LLM orchestration, observability, backend architecture, and reliability.
 
 Explores the gap between AI prototypes and production systems, including workflow orchestration, semantic observability, system boundaries, and architecture review patterns.
-
-### [AI-GPT Mapping NACE Codes](https://github.com/manuelblinkert/AI-GPT-mapping-nace-codes)
-
-A small OpenAI-based extraction workflow for mapping official NACE code information from source documents into structured output.
-
-Originally created as a practical helper script during consulting work.
 
 ## Current Private Work
 
