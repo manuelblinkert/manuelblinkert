@@ -35,7 +35,7 @@ Covers architecture, LLM workflows, observability, evals, RAG/context design, co
 
 An authenticated remote MCP server that lets Claude, ChatGPT, and other AI apps safely read and write a single GitHub-backed knowledge vault.
 
-Scoped tool registry, token-based auth, per-member commit attribution, and a hard single-repository boundary. Design and reasoning written up here: [Beyond Chat History: Building an AI-Native Second Brain with Obsidian, GitHub, and MCP](https://manuelblinkert.com/blog/beyond-chat-history-ai-native-second-brain).
+Scoped tool registry, token-based auth, per-member commit attribution, and a hard single-repository boundary. Design and reasoning written up here: [Beyond Chat History: Building an AI-Native Second Brain with Obsidian, GitHub, and MCP](https://manuelblinkert.com/blog/beyond-chat-history-ai-native-second-brain?utm_source=github&utm_medium=readme&utm_campaign=beyond-chat-history-ai-native-second-brain).
 
 ### [AI Systems Architecture Notes](https://github.com/manuelblinkert/ai-systems-architecture-notes)
 
@@ -71,5 +71,5 @@ Python · FastAPI · TypeScript · React · Supabase · Postgres · LangGraph ·
 
 ## Contact
 
-- [Website](https://manuelblinkert.com/)
+- [Website](https://manuelblinkert.com/?utm_source=github&utm_medium=readme&utm_campaign=profile)
 - [LinkedIn](https://www.linkedin.com/in/manuel-blinkert/)
