@@ -1,69 +1,50 @@
 # Manuel Blinkert
 
-**AI Systems Architect · Founder/CTO · Backend & LLM Infrastructure**
+**AI Systems Architect · Founder/CTO · Mathematician**
 
-I design and build AI/backend systems that move beyond prototypes toward production-grade reliability.
+I build the system around the model: architecture, backend, data, evaluation, observability, and cost control for AI products that have to hold up in production.
 
-My work focuses on LLM orchestration, backend architecture, observability, reliability, cost control, and knowledge infrastructure.
+M.Sc. Mathematics (TU Berlin), 8+ years in software engineering and data science, CTO and co-founder of a stealth AI startup.
 
-Currently building an AI product involving structured memory, async backend services, LLM workflows, and personalized user intelligence.
+## What I Work On
 
-## Focus Areas
-
-- AI/backend architecture for production systems
-- LLM orchestration and agent workflows
-- FastAPI and Python backend systems
-- Observability, reliability, and cost control
-- Evaluation, deployment, and production-readiness for AI systems
-- Knowledge infrastructure, memory, state, and signal extraction
+- Architecture for AI products that outgrow the prototype
+- LLM orchestration, agent workflows, and context design
+- Python and FastAPI backends, Postgres, async workers
+- Evaluation, observability, reliability, and cost control
+- Memory, state, and knowledge infrastructure
 
 ## Selected Public Work
 
 ### [AI Backend Production Starter](https://github.com/manuelblinkert/ai-backend-production-starter)
 
-A production-minded FastAPI starter for AI/LLM backend services.
-
-Includes route/service/schema separation, provider abstraction, structured JSON logging, request IDs, tests, Docker, and documentation.
+A FastAPI starting point for LLM services you can run and debug in production, with route/service/schema separation, provider abstraction, structured JSON logging, request IDs, tests, Docker, and CI.
 
 ### [AI Production Readiness Checklist](https://github.com/manuelblinkert/ai-production-readiness-checklist)
 
-A practical checklist framework for evaluating whether AI systems are ready for production.
-
-Covers architecture, LLM workflows, observability, evals, RAG/context design, cost control, security, deployment, and reliability.
+Use it to find the weak points of an AI system before launch. It covers architecture, LLM workflows, observability, evals, RAG and context design, cost control, security, deployment, and reliability.
 
 ### [Second Brain GitHub MCP](https://github.com/manuelblinkert/second-brain-github-mcp)
 
-An authenticated remote MCP server that lets Claude, ChatGPT, and other AI apps safely read and write a single GitHub-backed knowledge vault.
+An authenticated remote MCP server that lets Claude, ChatGPT, and other AI apps read and write a single GitHub-backed knowledge vault. Scoped tool registry, token-based auth, per-member commit attribution, and a hard single-repository boundary.
 
-Scoped tool registry, token-based auth, per-member commit attribution, and a hard single-repository boundary. Design and reasoning written up here: [Beyond Chat History: Building an AI-Native Second Brain with Obsidian, GitHub, and MCP](https://manuelblinkert.com/blog/beyond-chat-history-ai-native-second-brain?utm_source=github&utm_medium=readme&utm_campaign=beyond-chat-history-ai-native-second-brain).
+The design and reasoning: [Beyond Chat History: Building an AI-Native Second Brain with Obsidian, GitHub, and MCP](https://manuelblinkert.com/blog/beyond-chat-history-ai-native-second-brain?utm_source=github&utm_medium=readme&utm_campaign=beyond-chat-history-ai-native-second-brain).
 
 ### [AI Systems Architecture Notes](https://github.com/manuelblinkert/ai-systems-architecture-notes)
 
-Practical architecture notes on production-grade AI systems, LLM orchestration, observability, backend architecture, and reliability.
+Architecture notes and a review template on workflow orchestration, semantic observability, and system boundaries in production AI systems.
 
-Explores the gap between AI prototypes and production systems, including workflow orchestration, semantic observability, system boundaries, and architecture review patterns.
+## Writing and Teaching
 
-## Current Private Work
+I write about how modern software and AI systems work and how to make good engineering decisions about them: mechanisms, trade-offs, and what breaks in practice. Articles are on [my blog](https://manuelblinkert.com/blog?utm_source=github&utm_medium=readme&utm_campaign=profile).
 
-### AI Product
+I also teach AI software engineering to people who want to turn an idea into a working product.
 
-Founder/CTO. Building a multi-repo AI product with backend services, async workers, Supabase/Postgres, LLM workflows, structured memory, and stateful user intelligence.
+## Work With Me
 
-### Signal Over Noise
+I take on selected freelance projects in AI and software architecture, focused on the DACH region and the rest of Europe. Most start with a fixed-scope reliability review of an existing AI product.
 
-A personal tech intelligence system for turning fragmented AI and developer content into structured, high-signal knowledge.
-
-Currently private and under active development.
-
-## Technical Philosophy
-
-I am especially interested in the gap between AI prototypes and production systems:
-
-- Structuring LLM workflows beyond prompt-wrapper demos
-- Designing observable and evaluable AI systems
-- Separating routes, services, providers, schemas, and infrastructure
-- Modeling memory, state, context, and user-specific intelligence
-- Building AI products that are reliable enough to survive real usage
+[Book a 20-minute fit call](https://cal.com/manuelblinkert/fit-call) or read more on [my website](https://manuelblinkert.com/?utm_source=github&utm_medium=readme&utm_campaign=profile).
 
 ## Tech Stack
 
